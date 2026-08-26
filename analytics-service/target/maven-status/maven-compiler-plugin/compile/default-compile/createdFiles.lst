@@ -1,0 +1,3 @@
+com\example\analytics\AnalyticsServiceApplication.class
+com\example\analytics\listener\AnalyticsListener.class
+com\example\analytics\config\RabbitConfig.class

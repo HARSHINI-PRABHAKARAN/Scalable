@@ -1,0 +1,5 @@
+com\example\processor\config\RabbitConfig$1.class
+com\example\processor\config\RabbitConfig.class
+com\example\processor\worker\ProcessorB.class
+com\example\processor\ProcessorServiceApplication.class
+com\example\processor\worker\ProcessorA.class

@@ -1,0 +1,3 @@
+com\example\notification\listener\NotificationListener.class
+com\example\notification\NotificationServiceApplication.class
+com\example\notification\config\RabbitConfig.class
